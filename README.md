@@ -1,7 +1,5 @@
-patterns-php
+Design Patterns in PHP
 ============
-
-Design Patterns for PHP
 
 ### Creational
 
