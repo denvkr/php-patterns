@@ -4,12 +4,21 @@ namespace DesignPatterns\Creational\Singleton;
 
 class Singleton
 {
+    /**
+     * @var mixed
+     */
     protected $value;
 
-    private static $instance;  // экземпляра объекта
+    /**
+     * @var Singleton
+     */
+    private static $instance;
 
+    /**
+     * @return Singleton
+     */
     public static function getInstance()
-    {    // Возвращает единственный экземпляр класса. @return Singleton
+    {
         if ( empty(self::$instance) ) {
             self::$instance = new self();
         }
