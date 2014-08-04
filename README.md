@@ -5,3 +5,4 @@ Design Patterns in PHP
 
 * [FactoryMethod](creational/factoryMethod)
 * [Singleton](creational/singleton)
+* [Builder](creational/builder)
