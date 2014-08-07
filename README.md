@@ -14,3 +14,8 @@ a particular field of expertise.
 ## External links
 * [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) by [Dominik Liebler](https://github.com/domnikl)
 * [SourceMaking](http://sourcemaking.com/design_patterns)
+
+## Books
+* [Design Patterns: Elements of Reusable Object-Oriented Software](http://amzn.com/0201633612)
+* [Head First Design Patterns](http://amzn.com/0596007124)
+* [PHP Objects, Patterns and Practice ](http://amzn.com/143022925X)
