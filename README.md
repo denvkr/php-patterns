@@ -7,4 +7,4 @@
 * [Builder](creational/builder)
 
 ### Structural
-* [Adapter](structural/Adapter)
+* [Adapter](structural/adapter)
