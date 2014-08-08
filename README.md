@@ -8,11 +8,13 @@ a particular field of expertise.
 * [Singleton](creational/singleton) A class of which only a single instance can exist
 * [Builder](creational/builder) Separates object construction from its representation
 
-### Structural
+### [Structural](structural)
 * [Adapter](structural/adapter) Creates an instance of several families of classes
+* [Bridge](structural/bridge) Separates an object’s interface from its implementation
+* [Decorator](structural/decorator) Add responsibilities to objects dynamically
 
 ## External links
-* [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) by [Dominik Liebler](https://github.com/domnikl)
+* [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP#designpatternsphp) by [Dominik Liebler](https://github.com/domnikl)
 * [SourceMaking](http://sourcemaking.com/design_patterns)
 
 ## Books
