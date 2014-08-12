@@ -9,13 +9,15 @@ a particular field of expertise.
 * [Builder](creational/builder) Separates object construction from its representation
 
 ### [Structural](structural)
-* [Adapter](structural/adapter) Creates an instance of several families of classes
+* [Adapter](structural/adapter) Converts one interface to another so that it matches what the client is expecting
 * [Bridge](structural/bridge) Separates an object’s interface from its implementation
-* [Decorator](structural/decorator) Add responsibilities to objects dynamically
+* [Decorator](structural/decorator) Dynamically adds responsibility to the interface by wrapping the original code
+* [Facade](structural/facade) Provides a simplified interface
 
 ## External links
 * [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP#designpatternsphp) by [Dominik Liebler](https://github.com/domnikl)
 * [SourceMaking](http://sourcemaking.com/design_patterns)
+* [Паттерны проектирования](http://habrahabr.ru/post/84706/)
 
 ## Books
 * [Design Patterns: Elements of Reusable Object-Oriented Software](http://amzn.com/0201633612)
