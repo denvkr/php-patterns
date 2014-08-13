@@ -18,7 +18,7 @@ a particular field of expertise.
 * [Bridge](structural/bridge) Separates an object’s interface from its implementation
 * [Decorator](structural/decorator) Dynamically adds responsibility to the interface by wrapping the original code
 * [Facade](structural/facade) Provides a simplified interface
-* Proxy
+* [Proxy](structural/proxy) Provide a surrogate or placeholder for another object to control access to it.
 * Composite
 * Flyweight
 * Front Controller
