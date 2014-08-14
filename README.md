@@ -20,7 +20,7 @@ a particular field of expertise.
 * [Facade](structural/facade) Provides a simplified interface
 * [Proxy](structural/proxy) Provide a surrogate or placeholder for another object to control access to it.
 * Composite
-* Flyweight
+* [Flyweight](flyweight) Use sharing to support large numbers of similar objects efficiently
 * Front Controller
 * Module
 * Twin
