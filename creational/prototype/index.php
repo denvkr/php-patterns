@@ -2,17 +2,12 @@
 
 namespace DesignPatterns\Creational\Prototype;
 
-include_once 'Prototype.php';
+include_once 'User.php';
 
-$objectA = new Prototype();
-$objectA->setValue(1);
-$objectB = $objectA::prototype();
+$userA = new User();
+$userA->setName('Dzyanis');
+$userA->setAge(27);
+echo $userA->info() . PHP_EOL;
 
-echo 'Equal : ' . ($objectA->getValue() == $objectB->getValue()) ? 'yes' : 'no';
-echo PHP_EOL;
-
-$objectB->setValue(20);
-
-echo 'Equal : ' . ($objectA->getValue() == $objectB->getValue()) ? 'yes' : 'no';
-echo PHP_EOL;
-
+$userB = clone $userA;
+echo $userB->info() . PHP_EOL;

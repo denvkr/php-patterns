@@ -7,7 +7,7 @@ a particular field of expertise.
 * [Abstract Factory](creational/abstractFactory) Creates an instance of several families of classes
 * [Singleton](creational/singleton) A class of which only a single instance can exist
 * [Builder](creational/builder) Separates object construction from its representation
-* Prototype
+* [Prototype](creational/prototype) Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.
 * Lazy initialization
 * Multiton
 * Object pool
