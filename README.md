@@ -28,7 +28,7 @@ Composite lets clients treat individual objects and compositions of objects unif
 
 ### Behavioral
 * Interpreter
-* Observer
+* [Observer](behavioral\observer) Define a one-to-many dependency between objects where a state change in one object results in all its dependents being notified and updated automatically.
 * Command
 * Iterator
 * Mediator
