@@ -11,7 +11,6 @@ a particular field of expertise.
 * Lazy initialization
 * Multiton
 * Object pool
-* Resource acquisition is initialization
 
 ### [Structural](structural)
 * [Adapter](structural/adapter) Converts one interface to another so that it matches what the client is expecting
@@ -30,7 +29,7 @@ Composite lets clients treat individual objects and compositions of objects unif
 * Interpreter
 * [Observer](behavioral/observer) A way of notifying change to a number of classes
 * Command
-* Iterator
+* [Iterator](behavioral/iterator)
 * Mediator
 * Memento
 * State
