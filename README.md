@@ -29,8 +29,8 @@ Composite lets clients treat individual objects and compositions of objects unif
 * Interpreter
 * [Observer](behavioral/observer) A way of notifying change to a number of classes
 * Command
-* [Iterator](behavioral/iterator)
-* Mediator
+* [Iterator](behavioral/iterator) Sequentially access the elements of a collection
+* [Mediator](behavioral/mediator) Defines simplified communication between classes
 * Memento
 * State
 * [Chain of Responsibility](behavioral/chainOfResponsibility) A way of passing a request between a chain of objects
