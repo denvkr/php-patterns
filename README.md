@@ -37,7 +37,7 @@ Composite lets clients treat individual objects and compositions of objects unif
 * Strategy
 * Template Method
 * Visitor
-* Null object
+* [Null object](behavioral/nullObject) Designed to act as a default value of an object
 * Specification
 * Servant
 
