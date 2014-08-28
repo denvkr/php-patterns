@@ -34,7 +34,7 @@ Composite lets clients treat individual objects and compositions of objects unif
 * Memento
 * State
 * [Chain of Responsibility](behavioral/chainOfResponsibility) A way of passing a request between a chain of objects
-* Strategy
+* [Strategy](behavioral/strategy) Encapsulates an algorithm inside a class
 * Template Method
 * Visitor
 * [Null object](behavioral/nullObject) Designed to act as a default value of an object
