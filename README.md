@@ -31,7 +31,7 @@ Composite lets clients treat individual objects and compositions of objects unif
 * Command
 * [Iterator](behavioral/iterator) Sequentially access the elements of a collection
 * [Mediator](behavioral/mediator) Defines simplified communication between classes
-* Memento
+* [Memento](behavioral/memento) Provides the ability to restore an object to its previous state
 * State
 * [Chain of Responsibility](behavioral/chainOfResponsibility) A way of passing a request between a chain of objects
 * [Strategy](behavioral/strategy) Encapsulates an algorithm inside a class
