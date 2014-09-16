@@ -21,7 +21,7 @@ a particular field of expertise.
 * [Composite](structural/composite) Compose objects into tree structures to represent part-whole hierarchies.
 Composite lets clients treat individual objects and compositions of objects uniformly.
 * [Flyweight](structural/flyweight) Use sharing to support large numbers of similar objects efficiently
-* Front Controller
+* [Front Controller](structural/frontController) A controller that handles all requests
 * Module
 * Twin
 
@@ -78,7 +78,7 @@ Composite lets clients treat individual objects and compositions of objects unif
 ###Web Presentation Patterns
 * Model View Controller
 * Page Controller
-* Front Controller
+* [Front Controller](webPresentation/frontController) A controller that handles all requests
 * Template View
 * Transform View
 * Two Step View
