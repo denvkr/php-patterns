@@ -22,11 +22,10 @@ a particular field of expertise.
 Composite lets clients treat individual objects and compositions of objects uniformly.
 * [Flyweight](structural/flyweight) Use sharing to support large numbers of similar objects efficiently
 * [Front Controller](structural/frontController) A controller that handles all requests
-* Module
 * Twin
 
 ### Behavioral
-* Interpreter
+* [Interpreter](behavioral/interpreter) That specifies how to evaluate sentences in a language
 * [Observer](behavioral/observer) A way of notifying change to a number of classes
 * [Command](behavioral/command) Encapsulate a command request as an object
 * [Iterator](behavioral/iterator) Sequentially access the elements of a collection
