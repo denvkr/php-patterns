@@ -18,7 +18,11 @@ function message(Application $application)
 }
 
 $application->setFactory(new Html\Factory);
-echo message($application);
+echo message($application); /**
+<p>My profile on <a href="http://www.linkedin.com/pub/dzyanis-kuzmenka/30/4/862">LinkedIn</a></p>
+<br /> */
 
 $application->setFactory(new Text\Factory);
-echo message($application);
+echo message($application); /**
+My profile on LinkedIn (http://www.linkedin.com/pub/dzyanis-kuzmenka/30/4/862)\n
+*/
