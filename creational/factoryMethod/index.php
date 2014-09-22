@@ -20,4 +20,8 @@ foreach ($creators as $creator) {
     $productsName[] = $creator->factoryMethod()->getName();
 }
 
-var_dump($productsName);
+var_dump($productsName); /**
+array(2) {
+    [0] => string(9) "Product A"
+    [1] => string(9) "Product B"
+} */
