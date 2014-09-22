@@ -1,13 +1,14 @@
 #Design Patterns in PHP
-A design pattern in architecture and computer science is a formal way of documenting a solution to a design problem in
-a particular field of expertise.
+I collect the best example of [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) in PHP.
+Every pattern have file index.php with examples and diagrams (draw in [Dia](https://wiki.gnome.org/Apps/Dia)).
+I think this is better than big description.
 
 ### Creational
 * [Factory Method](creational/factoryMethod) Creates an instance of several derived classes
 * [Abstract Factory](creational/abstractFactory) Creates an instance of several families of classes
 * [Singleton](creational/singleton) A class of which only a single instance can exist
 * [Builder](creational/builder) Separates object construction from its representation
-* [Prototype](creational/prototype) Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.
+* [Prototype](creational/prototype) Creates new objects by copying this prototype
 * Lazy initialization
 * Multiton
 * Object pool
