@@ -3,7 +3,7 @@ A design pattern in architecture and computer science is a formal way of documen
 a particular field of expertise.
 
 ### Creational
-* [FactoryMethod](creational/factoryMethod) Creates an instance of several derived classes
+* [Factory Method](creational/factoryMethod) Creates an instance of several derived classes
 * [Abstract Factory](creational/abstractFactory) Creates an instance of several families of classes
 * [Singleton](creational/singleton) A class of which only a single instance can exist
 * [Builder](creational/builder) Separates object construction from its representation
