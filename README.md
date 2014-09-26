@@ -116,6 +116,7 @@ Composite lets clients treat individual objects and compositions of objects unif
 * [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP#designpatternsphp) by [Dominik Liebler](https://github.com/domnikl)
 * [SourceMaking](http://sourcemaking.com/design_patterns)
 * [Паттерны проектирования](http://habrahabr.ru/post/84706/)
+* [Design Patterns Quick Reference](http://www.mcdonaldland.info/2007/11/28/40/)
 
 ## Books
 * [Design Patterns: Elements of Reusable Object-Oriented Software](http://amzn.com/0201633612)
