@@ -76,7 +76,7 @@ Composite lets clients treat individual objects and compositions of objects unif
 * Repository
 
 ###Web Presentation Patterns
-* Model View Controller
+* [Model View Controller](webPresentation/mvc) Divides a given software application into three interconnected part
 * Page Controller
 * [Front Controller](webPresentation/frontController) A controller that handles all requests
 * Template View

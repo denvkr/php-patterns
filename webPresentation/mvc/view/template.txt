@@ -1,0 +1,3 @@
+This is {$this->data->type}
+User id {$this->data->user_id}
+User name {$this->data->user_name}
