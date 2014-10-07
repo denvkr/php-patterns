@@ -32,7 +32,7 @@ Composite lets clients treat individual objects and compositions of objects unif
 * [Iterator](behavioral/iterator) Sequentially access the elements of a collection
 * [Mediator](behavioral/mediator) Defines simplified communication between classes
 * [Memento](behavioral/memento) Provides the ability to restore an object to its previous state
-* State
+* [State](behavioral/state) Encapsulate varying behavior for the same routine based on an object's state object
 * [Chain of Responsibility](behavioral/chainOfResponsibility) A way of passing a request between a chain of objects
 * [Strategy](behavioral/strategy) Encapsulates an algorithm inside a class
 * [Template Method](behavioral/templateMethod) Defines the program skeleton of an algorithm in a method
@@ -114,7 +114,9 @@ Composite lets clients treat individual objects and compositions of objects unif
 
 ## External links
 * [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP#designpatternsphp) by [Dominik Liebler](https://github.com/domnikl)
+* [OO design patterns examples](https://github.com/vkostyukov/patterns-pack) by [Vladimir Kostyukov](https://github.com/vkostyukov)
 * [SourceMaking](http://sourcemaking.com/design_patterns)
+* [Catalog of Patterns of Enterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html)
 * [Паттерны проектирования](http://habrahabr.ru/post/84706/)
 * [Design Patterns Quick Reference](http://www.mcdonaldland.info/2007/11/28/40/)
 
