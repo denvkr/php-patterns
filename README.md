@@ -106,7 +106,7 @@ Composite lets clients treat individual objects and compositions of objects unif
 * Separated Interface
 * Registry
 * Value Object
-* Money
+* [Money](base/money) Represents a monetary value
 * Special Case
 * Plugin
 * Service Stub
