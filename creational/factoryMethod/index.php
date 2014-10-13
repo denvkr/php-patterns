@@ -10,18 +10,9 @@ $creators = [
     new ConcreteCreatorB(),
 ];
 
-for($i = 0; $i < count($creators); $i++){
-    $products[] = $creators[$i]->FactoryMethod();
-}
-
-$productsName = [];
-/** @var CreatorInterface $creator */
 foreach ($creators as $creator) {
-    $productsName[] = $creator->factoryMethod()->getName();
-}
-
-var_dump($productsName); /**
-array(2) {
-    [0] => string(9) "Product A"
-    [1] => string(9) "Product B"
-} */
+    echo $creator->factoryMethod()->getName() . PHP_EOL;
+} /*
+Product A
+Product B
+*/
