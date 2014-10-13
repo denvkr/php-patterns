@@ -9,9 +9,6 @@ I think this is better than big description.
 * [Singleton](creational/singleton) A class of which only a single instance can exist
 * [Builder](creational/builder) Separates object construction from its representation
 * [Prototype](creational/prototype) Creates new objects by copying this prototype
-* Lazy initialization
-* Multiton
-* Object pool
 
 ### [Structural](structural)
 * [Adapter](structural/adapter) Converts one interface to another so that it matches what the client is expecting
@@ -22,8 +19,6 @@ I think this is better than big description.
 * [Composite](structural/composite) Compose objects into tree structures to represent part-whole hierarchies.
 Composite lets clients treat individual objects and compositions of objects uniformly.
 * [Flyweight](structural/flyweight) Use sharing to support large numbers of similar objects efficiently
-* [Front Controller](structural/frontController) A controller that handles all requests
-* Twin
 
 ### Behavioral
 * [Interpreter](behavioral/interpreter) That specifies how to evaluate sentences in a language
@@ -38,79 +33,15 @@ Composite lets clients treat individual objects and compositions of objects unif
 * [Template Method](behavioral/templateMethod) Defines the program skeleton of an algorithm in a method
 * [Visitor](behavioral/visitor) Is a way of separating an algorithm from an object structure on which it operates.
 * [Null object](behavioral/nullObject) Designed to act as a default value of an object
-* Specification
-* Servant
-
-###Domain Logic Patterns
-* Transaction Script
-* Domain Model
-* Table Module
-* Service Layer
-
-###Data Source Architectural Patterns
-* Table Data Gateway
-* Row Data Gateway
-* Active Record
-* Data Mapper
-
-###Object-Relational Behavioral Patterns
-* Unit of Work
-* Identity Map
-* Lazy Load
-
-###Object-Relational Structural Patterns
-* Identity Field
-* Foreign Key Mapping
-* Association Table Mapping
-* Dependent Mapping
-* Embedded Value
-* Serialized LOB
-* Single Table Inheritance
-* Class Table Inheritance
-* Concrete Table Inheritance
-* Inheritance Mappers
-
-###Object-Relational Metadata Mapping Patterns
-* Metadata Mapping
-* Query Object
-* Repository
 
 ###Web Presentation Patterns
 * [Model View Controller](webPresentation/mvc) Divides a given software application into three interconnected part
-* Page Controller
 * [Front Controller](webPresentation/frontController) A controller that handles all requests
-* Template View
-* Transform View
-* Two Step View
-* Application Controller
-
-###Distribution Patterns
-* Remote Facade
-* Data Transfer Object
-
-###Offline Concurrency Patterns
-* Optimistic Offline Lock
-* Pessimistic Offline Lock
-* Coarse-Grained Lock
-* Implicit Lock
-
-###Session State Patterns
-* Client Session State
-* Server Session State
-* Database Session State
 
 ###Base Patterns
-* Gateway
-* Mapper
-* Layer Supertype
-* Separated Interface
-* Registry
-* Value Object
 * [Money](base/money) Represents a monetary value
-* Special Case
-* Plugin
-* Service Stub
-* Record Set
+
+to be continued…
 
 ## External links
 * [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP#designpatternsphp) by [Dominik Liebler](https://github.com/domnikl)
