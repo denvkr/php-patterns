@@ -4,7 +4,7 @@ The intent of the Builder design pattern is to separate the construction of a co
 By doing so, the same construction process can create different representations.
 [More…](http://en.wikipedia.org/wiki/Builder_pattern)
 
-'''php
+```php
 $builder = new UserBuilder();
 $builder->setFirstname('Dzyanis');
 $builder->setLastname('Kuzmenka');
@@ -23,7 +23,7 @@ echo "because I'm {$userM->getGender()}.\n";
 
 echo 'More information about me: ' . $userM->getLinkedinProfile() . PHP_EOL;
 // More information about me: www.linkedin.com/pub/dzyanis-kuzmenka/30/4/862
-'''
+```
 
 ##Diagram
 ![Builder UML Diagram](diagram.png)
