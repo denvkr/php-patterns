@@ -11,7 +11,7 @@ $objectB = Singleton::getInstance();
 $objectB->setValue(2);
 
 echo 'Equal : ' . ($objectA->getValue() == $objectB->getValue()) ? 'yes' : 'no';
-echo PHP_EOL;
+echo PHP_EOL; // yes
 
 // Fatal error: Call to private method
 // $objectC = new Singleton();
