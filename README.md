@@ -15,9 +15,8 @@ I think this is better than big description.
 * [Bridge](structural/bridge) Separates an object’s interface from its implementation
 * [Decorator](structural/decorator) Dynamically adds responsibility to the interface by wrapping the original code
 * [Facade](structural/facade) Provides a simplified interface
-* [Proxy](structural/proxy) Provide a surrogate or placeholder for another object to control access to it.
-* [Composite](structural/composite) Compose objects into tree structures to represent part-whole hierarchies.
-Composite lets clients treat individual objects and compositions of objects uniformly.
+* [Proxy](structural/proxy) Provide a surrogate or placeholder for another object to control access to it
+* [Composite](structural/composite) Compose objects into tree structures to represent part-whole hierarchies
 * [Flyweight](structural/flyweight) Use sharing to support large numbers of similar objects efficiently
 
 ### Behavioral
