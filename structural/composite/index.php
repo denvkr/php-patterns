@@ -24,4 +24,10 @@ $root->add($leaf);
 $root->remove($leaf);
 
 // Recursively display tree
-$root->display();
+$root->display(); /*
+Leaf A
+Leaf B
+Leaf XA
+Leaf XB
+Leaf C
+*/
