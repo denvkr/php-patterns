@@ -56,3 +56,4 @@ to be continued…
 * [Head First Design Patterns](http://amzn.com/0596007124)
 * [PHP Objects, Patterns and Practice](http://amzn.com/143022925X)
 * [Patterns of Enterprise Application Architecture](http://amzn.com/0321127420)
+* [Wikibooks: Computer Science Design Patterns](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
