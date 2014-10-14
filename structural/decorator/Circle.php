@@ -17,7 +17,7 @@ class Circle extends Figure
     function __construct(Figure $figure)
     {
         $this->figure = $figure;
-        $this->name = 'Circle';
+        $this->name = 'Circle ';
     }
 
     /**

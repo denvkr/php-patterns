@@ -17,7 +17,7 @@ class Bar extends Figure
     function __construct(Figure $figure)
     {
         $this->figure = $figure;
-        $this->name = ' bar ';
+        $this->name = 'Bar ';
     }
 
     /**
@@ -25,6 +25,6 @@ class Bar extends Figure
      */
     public function getInfo()
     {
-        return $this->figure->getInfo() . $this->name;
+        return $this->name. $this->figure->getInfo();
     }
 }
