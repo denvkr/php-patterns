@@ -15,4 +15,6 @@ $mediator->setColleague1($collegue1);
 $mediator->setColleague2($collegue2);
 
 echo $collegue1->send('How are you ?');
+// Collegue2 gets message: How are you ?
 echo $collegue2->send('Fine, thanks!');
+// Collegue1 gets message: Fine, thanks!
