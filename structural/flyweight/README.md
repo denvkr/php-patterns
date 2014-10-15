@@ -18,4 +18,4 @@ echo $factory->getElement('Uuo')->info() . PHP_EOL;
 ```
 
 ##Diagram
-![Decorator UML Diagram](diagram.png)
+![Flyweight UML Diagram](diagram.png)
