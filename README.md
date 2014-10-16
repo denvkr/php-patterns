@@ -1,5 +1,5 @@
 #Design Patterns in PHP
-I collect the best example of [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) in PHP.
+I collect the best examples of [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) in PHP.
 Every pattern have file index.php with examples and diagrams (draw in [Dia](https://wiki.gnome.org/Apps/Dia)).
 I think this is better than big description.
 
