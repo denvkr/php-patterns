@@ -17,7 +17,7 @@ $newspaper->attach($linda);
 
 $newspaper->detach($linda);
 
-$newspaper->breakOutNews('USA break down!');
-//=====output======
-//Allen is reading breakout news USA break down! (Newyork Times)
-//Jim is reading breakout news USA break down! (Newyork Times)
+$newspaper->breakOutNews('USA break down!'); /*
+Allen is reading breakout news USA break down! (Newyork Times)
+Jim is reading breakout news USA break down! (Newyork Times)
+*/
