@@ -23,5 +23,8 @@ Jim is reading breakout news USA break down! (Newyork Times)
 */
 ```
 
+##Diagram
+![Observer UML Diagram](diagram.png)
+
 ##Linsk
 * [The SplObserver interface](http://php.net/manual/en/class.splobserver.php)
