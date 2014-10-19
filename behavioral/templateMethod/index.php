@@ -17,6 +17,6 @@ $concreteB = new ConcreteClassB();
 var_dump($concreteB->run()); /* array(4) {
     'initialized' => string(61) "DesignPatterns\Structural\TemplateMethod\ConcreteClassB::init"
     'checked'     => string(62) "DesignPatterns\Structural\TemplateMethod\ConcreteClassB::check"
-    'done'        => string(9) "Something"
+    'done'        => string(9) "something"
     'finally'     => string(60) "DesignPatterns\Structural\TemplateMethod\ConcreteClassB::end"
 } */
