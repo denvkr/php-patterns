@@ -40,6 +40,9 @@ I think this is better than big description.
 ###Base Patterns
 * [Money](base/money) Represents a monetary value
 
+###More
+* [Registry](more/registry) A global object that other objects can use to find common objects
+
 to be continued…
 
 ## External links
